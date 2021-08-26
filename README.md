@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hola A Todos!!
+
+Actualmnete soy estudiante del Instituto Tecnológico de Tijuana.
+
+
+
+### Horarios Escolar
 
 <!--
 **Josafat-Palacios/Josafat-Palacios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
